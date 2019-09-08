@@ -4,7 +4,8 @@ def roll_call_dwarves(array)
    puts "#{index + 1}. #{hash[index] = item}" }
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(array)
+  array.map
   
 end
 
