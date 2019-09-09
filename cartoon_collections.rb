@@ -16,5 +16,5 @@ def find_the_cheese(array)
   arr = Array.new
   cheese_types = ["cheddar", "gouda", "camembert"]
  arr << (array & cheese_types).join
-  arr.first
+  arr.join(" ")
 end
