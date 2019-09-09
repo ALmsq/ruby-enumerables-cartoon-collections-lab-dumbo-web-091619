@@ -14,8 +14,8 @@ end
 
 def find_the_cheese(array)
 # arr = Array.new
-# cheese_types = ["cheddar", "gouda", "camembert"]
+cheese_types = ["cheddar", "gouda", "camembert"]
 # arr << (array & cheese_types).join
 #  arr.join(" ")
-arra.find
+arra.find {|i| cheese_types
 end
